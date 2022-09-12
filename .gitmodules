@@ -1,3 +1,6 @@
 [submodule "image-uploader-frontend"]
 	path = image-uploader-frontend
 	url = https://github.com/Bluebberies/image-uploader-frontend
+[submodule "server"]
+	path = server
+	url = https://github.com/Bluebberies/image-uploader-backend
